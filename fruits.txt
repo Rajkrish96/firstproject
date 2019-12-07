@@ -1,3 +1,5 @@
 Welcome to fruits hub
 Orange
 Apple
+Mango
+Grapes
